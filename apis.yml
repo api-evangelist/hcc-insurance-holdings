@@ -1,7 +1,12 @@
 aid: hcc-insurance-holdings
-url: https://raw.githubusercontent.com/api-evangelist/hcc-insurance-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hcc-insurance-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hcc-insurance-holdings.com
+description: >-
+  HCC Insurance Holdings was a leading specialty insurance group with offices in the
+  United States, the United Kingdom, Spain, and Ireland before being acquired by Tokio
+  Marine.
