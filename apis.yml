@@ -24,6 +24,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hcc-insura
 tags:
   - Insurance
   - Specialty Insurance
+  - Financial-Services
+tags_raw:
+  - Insurance
+  - Specialty Insurance
   - Financial Services
 created: '2024-12-03'
 modified: '2026-04-28'
