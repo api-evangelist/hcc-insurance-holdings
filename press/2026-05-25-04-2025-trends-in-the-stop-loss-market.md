@@ -1,7 +1,9 @@
 ---
 title: 2025 Trends in the Stop Loss Market
 url: https://www.tmhcc.com/en-us/news-and-articles/thought-leadership/jay-ritchie-current-stop-loss-market-trends
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HCC Insurance Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
